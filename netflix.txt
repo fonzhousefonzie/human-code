@@ -26,57 +26,13 @@ ALTRIMENTI
 
     SE siamo in gruppo
         SE siamo d'accordo sul genere
-            SE vogliamo guardare qualcosa di lungo
-                SE scegliamo una serie tv
-                    - vai sulla lista serie tv >1h
-                    - metti un episodio
-                SE scegliamo un film
-                    - vai sulla lista film >1h
-                    - metti un film
+            vai a riga 10
 
-            ALTRIMENTI 
-            guardiamo qualcosa di corto
-                SE scegliamo una serie tv
-                    - vai sulla lista serie tv <1h
-                    - metti un episodio
-                SE scegliamo un film
-                    - vai sulla lista film <1h
-                    - metti un film
         SE non siamo d'accordo
             si vota
             SE un genere ha la maggioranza
-              SE vogliamo guardare qualcosa di lungo
-                SE scegliamo una serie tv
-                    - vai sulla lista serie tv >1h
-                    - metti un episodio
-                SE scegliamo un film
-                    - vai sulla lista film >1h
-                    - metti un film
-
-              ALTRIMENTI 
-                guardiamo qualcosa di corto
-                SE scegliamo una serie tv
-                    - vai sulla lista serie tv <1h
-                    - metti un episodio
-                SE scegliamo un film
-                    - vai sulla lista film <1h
-                    - metti un film
+              vai a riga 10
 
             ALTRIMENTI 
                 ripeti la votazione finché un genere non ha la maggioranza
-                SE vogliamo guardare qualcosa di lungo
-                    SE scegliamo una serie tv
-                    - vai sulla lista serie tv >1h
-                    - metti un episodio
-                    SE scegliamo un film
-                    - vai sulla lista film >1h
-                    - metti un film
-
-                ALTRIMENTI 
-                guardiamo qualcosa di corto
-                    SE scegliamo una serie tv
-                    - vai sulla lista serie tv <1h
-                    - metti un episodio
-                    SE scegliamo un film
-                    - vai sulla lista film <1h
-                    - metti un film
+                vai a riga 10
